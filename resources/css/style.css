@@ -1,9 +1,38 @@
-/* Make the page black */
+/* Make the page background black and center everything */
 body {
   background-color: black;
+  text-align: center;
 }
 
-/* Make the big text white */
+/* Format heading text */
 h1 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
   color: white;
+}
+
+h2 {
+  font-family: Verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: White;
+}
+
+/* Format paragraph text */
+p {
+  font-family: Verdana;
+  font-size: 21px;
+  color: Gray;
+}
+
+/* Format links */
+a {
+  color: Aquamarine;
+  font-size: 16px;
+}
+
+/* Format footer */
+footer {
+  text-align: right;
 }
