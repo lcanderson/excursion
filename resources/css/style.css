@@ -1,0 +1,9 @@
+/* Make the page black */
+body {
+  background-color: black;
+}
+
+/* Make the big text white */
+h1 {
+  color: white;
+}
